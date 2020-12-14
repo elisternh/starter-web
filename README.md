@@ -7,7 +7,11 @@ This is the intro
 
 ## Purpose
 
+Purpose is ...
+
 ## Deployment
+
+Deployment ....
 
 ## How to Contribute
 
