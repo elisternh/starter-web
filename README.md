@@ -1,7 +1,9 @@
 # Starter Web Repo
 
-This is a simple
+This is a simples
 ## Introduction
+
+This is the intro
 
 ## Purpose
 
