@@ -15,3 +15,8 @@ Deployment ....
 
 ## How to Contribute
 
+
+###
+Copyright notice
+Eli
+
